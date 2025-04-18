@@ -31,7 +31,7 @@ This project focuses on **HR Analytics** using **Power BI**, aiming to provide d
    - Interact with the visuals and filters.
 
 ## 🔗 Connect with Me
-- **LinkedIn**:([https://www.linkedin.com/in/seeram-murali-ganesh-9a6b62258/](https://www.linkedin.com/in/mailapalli-jahnavi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- **LinkedIn**:([Jahnavi Mailapalli](https://www.linkedin.com/in/mailapalli-jahnavi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 
 ## 📌 Future Enhancements
